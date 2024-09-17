@@ -33,11 +33,10 @@ The dataset used in this project is the **Credit Card Customer Data**, which inc
 ## Deployed Project
 
 You can interact with the deployed application.
-'''
-    [![Open in Streamlit](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://mariam-credit-card-segmentation-deploy.streamlit.app/) 
-
-'''
-st.markdown("<br>",unsafe_allow_html=True)
+```markdown
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
+```
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mariam-credit-card-segmentation-deploy.streamlit.app/)
 
 ## How to Run Locally
 
