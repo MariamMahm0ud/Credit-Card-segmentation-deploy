@@ -5,7 +5,7 @@
 The **Credit Card Clustering Segmentation** project aims to analyze and segment credit card customers based on their spending and payment behaviors. By applying machine learning techniques, this project classifies customers into distinct clusters to uncover patterns and insights that can guide targeted marketing strategies, credit management, and customer service improvements.
 
 ## Data
-
+[![Kaggle](https://www.kaggle.com/static/images/kaggle-logo.svg)](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 The dataset used in this project is the **Credit Card Customer Data**, which includes a range of features related to customer credit card usage. The key features in the dataset are:
 
 - **BALANCE**: The balance amount on the credit card.
